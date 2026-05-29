@@ -1,0 +1,197 @@
+<mjml>
+  <mj-body background-color="#d6dde5">
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#000000"
+          font-size="11px"
+          padding-bottom="0px"
+          padding-top="0"
+          ><span style="font-size: 11px"
+            >Ihr Aufenthalt im Romantikhotel "Der Rebstock"</span
+          ></mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#ffffff"
+      padding-bottom="10px"
+      padding-top="10px"
+    >
+      <mj-column width="100%" vertical-align="top">
+        <mj-image
+          href="https://www.rebstock-kehl.de/"
+          src="./img/rebstock.jpeg"
+          alt="Rebstock Logo"
+          align="center"
+          border="none"
+          width="182px"
+          padding-left="0px"
+          padding-right="0px"
+          padding-bottom="0px"
+          padding-top="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-hero
+      mode="fixed-height"
+      height="300px"
+      vertical-align="middle"
+      background-width="600px"
+      background-height="300px"
+      background-url="./img/prestay.png"
+      background-color="#333"
+    >
+      <mj-text
+        color="#ffffff"
+        align="center"
+        font-size="36px"
+        line-height="36px"
+        font-weight="900"
+      >
+        Wir freuen uns auf Sie!
+      </mj-text>
+      <mj-text
+        line-height="24px"
+        font-size="16px"
+        color="#ffffff"
+        align="center"
+        >Ihr Aufenthalt im Rebstock beginnt in 5 Tagen.<br />Hier finden Sie
+        alle wichtigen Infos, die Sie vorab benötigen.</mj-text
+      >
+    </mj-hero>
+    <mj-section background-color="#FFF">
+      <mj-column>
+               <mj-text  line-height="18px">
+ Liebe Gäste,</mj-text>
+       
+         <mj-text  line-height="18px">
+          ihr Aufenthalt im Romantik Hotel Der Rebstock steht kurz bevor, und
+          wir möchten sicherstellen, dass Ihr Besuch zu einem unvergesslichen
+          Erlebnis wird. Damit Sie sich optimal auf Ihren Aufenthalt vorbereiten
+          können, möchten wir Ihnen einige wichtige Informationen mitteilen:
+        </mj-text>
+         <mj-text  line-height="18px">
+          <strong>Check-in und Check-out:</strong>
+          <br />
+          Ihr Check-in ist <strong>ab 14:00 Uhr</strong> möglich. Sollten Sie früher ankommen,
+          können Sie gerne Ihr Gepäck an unserer Rezeption abgeben und die Zeit
+          nutzen, die Stadt zu erkunden. <br />
+          Der Check-out erfolgt <strong>bis 11:00 Uhr</strong>. Falls Sie eine spätere Abreise
+          wünschen, sprechen Sie uns bitte an, und wir werden unser Bestes tun,
+          um Ihren Wünschen nachzukommen.
+        </mj-text>
+         <mj-text  line-height="18px">
+          <strong>Parken:</strong>
+          <br />
+          Wir bieten kostenfreie Parkplätze für unsere Gäste an. 
+        </mj-text>
+
+       
+       
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#ebebeb">
+      <mj-column vertical-align="middle">
+<mj-image src="https://www.rebstock-kehl.de/wp-content/uploads/2021/05/356A4565-1030x687.jpg" padding-top="0" padding-bottom="0" padding-left="0px" padding-right="0px" width="300px"   >
+      </mj-column >
+      <mj-column  vertical-align="middle">
+      <mj-text font-size="18px" font-weight="bold" padding-bottom="4px" >
+        Kulinarischer Genuss
+
+      </mj-text>
+        <mj-text padding-top="4px" line-height="16px">
+          Unser  Restaurant serviert internationale und regionale Gaumenfreuden. Reservieren Sie gerne einen Tisch im Voraus, um
+          sicherzustellen, dass Sie einen Platz erhalten. <br />
+          
+        </mj-text>
+        <mj-button  href="https://www.opentable.de/restref/client/?restref=217227&lang=de-DE&ot_source=Restaurant%20website&corrid=2078682b-c87c-447e-8d19-778a3a4f3434" background-color="#cf3719" color="white">
+      Jetzt reservieren
+         </mj-button>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section background-color="#FFF">
+    <mj-column >
+     <mj-text line-height="18px">
+          <strong>Besondere Anfragen:</strong>
+          <br />
+          Wenn Sie besondere Wünsche oder Anforderungen für Ihren Aufenthalt
+          haben, zögern Sie bitte nicht, uns im Voraus zu kontaktieren. Wir
+          werden alles tun, um sicherzustellen, dass Ihr Aufenthalt Ihren
+          Erwartungen entspricht.
+        </mj-text>
+ <mj-text  line-height="18px">
+          Wir hoffen, dass Sie sich auf einen unvergesslichen Aufenthalt bei uns
+          freuen und sind stets für Fragen und Anliegen erreichbar. Bitte zögern
+          Sie nicht, uns zu kontaktieren.
+        </mj-text>
+        <mj-text  line-height="18px">
+          Nochmals herzlich willkommen im Romantik Hotel Der Rebstock! Wir
+          freuen uns darauf, Sie persönlich zu begrüßen und Ihnen einen
+          unvergesslichen Aufenthalt zu bereiten.
+        </mj-text>
+        <mj-text  line-height="18px">
+          Mit herzlichen Grüßen,
+          <br />
+          Ihr Team vom Hotel Rebstock
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#949494" padding-bottom="0px" padding-top="0">
+      <mj-column width="66.66666%" vertical-align="top">
+        <mj-text
+          align="left"
+          color="#000000"
+          font-size="13px"
+          padding-left="25px"
+          padding-right="25px"
+          padding-bottom="10px"
+          padding-top="10px"
+        >
+          <p>
+            <a
+              href="https://www.rebstock-kehl.de/datenschutzerklaerung/"
+              style="text-decoration: none; color: inherit"
+              ><span style="color: rgb(255, 255, 255)"
+                >Datenschutzerklärung</span
+              ></a
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-social padding-right="0px" padding-top="20px">
+          <mj-social-element name="facebook" href="https://de-de.facebook.com/DerRebstock/">
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/rebstock_kehl/?hl=de">
+          </mj-social-element>
+         
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-bottom="20px" padding-top="20">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#000000"
+          font-size="11px"
+          line-height="14px"
+          padding-bottom="0px"
+          padding-top="0"
+        >
+          <p style="font-size: 11px">
+            Libertas Hotel Rebstock GmbH<br />Hauptstraße 183 | 77694 Kehl am
+            Rhein Deutschland<br />Tel.: 07851 / 91 040 | Fax: 07851 / 78 568 |
+            E-Mail: info@rebstock-kehl.de<br />
+            Geschäftsführer: Andreas Brennfleck | Handelsregister Nummer: HRB
+            Nr. 725 487<br />Eingetragen im Handelsregister des Amtsgerichts
+            Freiburg | UST. ID-Nr. DE 344 813 354
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

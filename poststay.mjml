@@ -1,0 +1,164 @@
+<mjml>
+  <mj-body background-color="#d6dde5">
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#000000"
+          font-size="11px"
+          padding-bottom="0px"
+          padding-top="0"
+          ><span style="font-size: 11px"
+            >Ihr Aufenthalt im Romantikhotel "Der Rebstock"</span
+          ></mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#ffffff"
+      padding-bottom="10px"
+      padding-top="10px"
+    >
+      <mj-column width="100%" vertical-align="top">
+        <mj-image
+          href="https://www.rebstock-kehl.de/"
+          src="./img/rebstock.jpeg"
+          alt="Rebstock Logo"
+          align="center"
+          border="none"
+          width="182px"
+          padding-left="0px"
+          padding-right="0px"
+          padding-bottom="0px"
+          padding-top="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-hero
+      mode="fixed-height"
+      height="300px"
+      vertical-align="middle"
+      background-width="600px"
+      background-height="300px"
+      background-url="./img/poststay.png"
+      background-color="#333"
+    >
+      <mj-text
+        color="#ffffff"
+        align="center"
+        font-size="36px"
+        line-height="36px"
+        font-weight="900"
+      >
+        Dankeschön!</mj-text
+      >
+      <mj-text
+        line-height="24px"
+        font-size="16px"
+        color="#ffffff"
+        align="center"
+        >Vielen Dank, dass Sie bei uns waren.<br />Wir hoffen Sie haben Ihre
+        Zeit bei uns genossen.</mj-text
+      >
+    </mj-hero>
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-text line-height="18px"> Liebe Gäste, </mj-text>
+        <mj-text line-height="18px">
+          wir hoffen, dass Sie Ihre Zeit bei uns genossen haben und sich
+          wunderbar erholt fühlen. Es war uns eine Freude, Sie als unsere Gäste
+          begrüßen zu dürfen.
+        </mj-text>
+        <mj-text line-height="18px">
+          Wir würden uns sehr darüber freuen, wenn Sie sich einen Moment Zeit
+          nehmen könnten, um uns Ihr Feedback zu Ihrem Aufenthalt mitzuteilen.
+          Ihre Meinung ist uns sehr wichtig und hilft uns dabei, unser Angebot
+          stetig zu verbessern.
+        </mj-text>
+        <mj-button
+          href="https://www.google.com/maps/place/Der+Rebstock/@48.567888,7.8212407,17z/data=!4m11!3m10!1s0x4796cfc129256955:0x82a0777cb286711f!5m2!4m1!1i2!8m2!3d48.567888!4d7.8238156!9m1!1b1!16s%2Fg%2F1tdkqr8v?entry=ttu"
+          font-family="Helvetica"
+          background-color="#cf3719"
+          color="white"
+          font-size="18px"
+        >
+          Bewertung schreiben
+        </mj-button>
+        <mj-text line-height="18px">
+          Wenn Sie besondere Erlebnisse oder Momente hatten, die Sie gerne
+          teilen möchten, zögern Sie nicht, uns zu kontaktieren. Wir sind stets
+          bemüht, unseren Service zu optimieren und Ihren Aufenthalt noch
+          angenehmer zu gestalten.
+        </mj-text>
+        <mj-text line-height="18px">
+          Wir hoffen, Sie bald wieder bei uns begrüßen zu dürfen, um erneut
+          unvergessliche Momente der Romantik zu erleben.
+        </mj-text>
+        <mj-text line-height="18px">
+          Mit herzlichen Grüßen,
+          <br />
+          Ihr Team vom Hotel Rebstock
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#949494" padding-bottom="0px" padding-top="0">
+      <mj-column width="66.66666%" vertical-align="top">
+        <mj-text
+          align="left"
+          color="#000000"
+          font-size="13px"
+          padding-left="25px"
+          padding-right="25px"
+          padding-bottom="10px"
+          padding-top="10px"
+        >
+          <p>
+            <a
+              href="https://www.rebstock-kehl.de/datenschutzerklaerung/"
+              style="text-decoration: none; color: inherit"
+              ><span style="color: rgb(255, 255, 255)"
+                >Datenschutzerklärung</span
+              ></a
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-social padding-right="0px" padding-top="20px">
+          <mj-social-element
+            name="facebook"
+            href="https://de-de.facebook.com/DerRebstock/"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/rebstock_kehl/?hl=de"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px" padding-top="20">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#000000"
+          font-size="11px"
+          line-height="14px"
+          padding-bottom="0px"
+          padding-top="0"
+        >
+          <p style="font-size: 11px">
+            Libertas Hotel Rebstock GmbH<br />Hauptstraße 183 | 77694 Kehl am
+            Rhein Deutschland<br />Tel.: 07851 / 91 040 | Fax: 07851 / 78 568 |
+            E-Mail: info@rebstock-kehl.de<br />
+            Geschäftsführer: Andreas Brennfleck | Handelsregister Nummer: HRB
+            Nr. 725 487<br />Eingetragen im Handelsregister des Amtsgerichts
+            Freiburg | UST. ID-Nr. DE 344 813 354
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

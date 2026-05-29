@@ -1,0 +1,124 @@
+<mjml>
+  <mj-body background-color="#d6dde5">
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#000000"
+          font-size="11px"
+          padding-bottom="0px"
+          padding-top="0"
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#ffffff"
+      padding-bottom="10px"
+      padding-top="10px"
+    >
+      <mj-column width="100%" vertical-align="top">
+        <mj-image
+          href="https://www.rebstock-kehl.de/"
+          src="./img/rebstock.jpeg"
+          alt="Rebstock Logo"
+          align="center"
+          border="none"
+          width="182px"
+          padding-left="0px"
+          padding-right="0px"
+          padding-bottom="0px"
+          padding-top="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-hero
+      mode="fixed-height"
+      height="300px"
+      vertical-align="middle"
+      background-width="600px"
+      background-height="300px"
+      background-color="#333"
+    >
+      <mj-text
+        color="#ffffff"
+        align="center"
+        font-size="36px"
+        line-height="36px"
+        font-weight="900"
+      >
+       </mj-text
+      >
+      <mj-text
+        line-height="24px"
+        font-size="16px"
+        color="#ffffff"
+        align="center"
+        >
+      </mj-text>
+    </mj-hero>
+    <mj-section background-color="#FFF">
+      <mj-column>
+       
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#949494" padding-bottom="0px" padding-top="0">
+      <mj-column width="66.66666%" vertical-align="top">
+        <mj-text
+          align="left"
+          color="#000000"
+          font-size="13px"
+          padding-left="25px"
+          padding-right="25px"
+          padding-bottom="10px"
+          padding-top="10px"
+        >
+          <p>
+            <a
+              href="https://www.rebstock-kehl.de/datenschutzerklaerung/"
+              style="text-decoration: none; color: inherit"
+              ><span style="color: rgb(255, 255, 255)"
+                >Datenschutzerklärung</span
+              ></a
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-social padding-right="0px" padding-top="20px">
+          <mj-social-element
+            name="facebook"
+            href="https://de-de.facebook.com/DerRebstock/"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/rebstock_kehl/?hl=de"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px" padding-top="20">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#000000"
+          font-size="11px"
+          line-height="14px"
+          padding-bottom="0px"
+          padding-top="0"
+        >
+          <p style="font-size: 11px">
+            Libertas Hotel Rebstock GmbH<br />Hauptstraße 183 | 77694 Kehl am
+            Rhein Deutschland<br />Tel.: 07851 / 91 040 | Fax: 07851 / 78 568 |
+            E-Mail: info@rebstock-kehl.de<br />
+            Geschäftsführer: Andreas Brennfleck | Handelsregister Nummer: HRB
+            Nr. 725 487<br />Eingetragen im Handelsregister des Amtsgerichts
+            Freiburg | UST. ID-Nr. DE 344 813 354
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
